@@ -1,0 +1,10 @@
+com/sak2km/springboot/dto/HelloResponseDtoTest.java
+ com.sak2km.springboot.dto.HelloResponseDtoTest
+com/sak2km/springboot/HelloControllerTest.java
+ com.sak2km.springboot.HelloControllerTest
+com/sak2km/springboot/web/PostsApiControllerTest.java
+ com.sak2km.springboot.web.PostsApiControllerTest
+com/sak2km/springboot/domain/posts/PostsRepositoryTest.java
+ com.sak2km.springboot.domain.posts.PostsRepositoryTest
+com/sak2km/springboot/web/IndexControllerTest.java
+ com.sak2km.springboot.web.IndexControllerTest
