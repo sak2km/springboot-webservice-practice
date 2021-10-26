@@ -23,6 +23,6 @@ public class IndexControllerTest {
         String body = this.restTemplate.getForObject("/", String.class);
 
         //then
-        assertThat(body).contains("Starting Web Services with Spring Boot");
+        assertThat(body).contains("Web Service with Spring Boot");
     }
 }
